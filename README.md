@@ -68,11 +68,3 @@
 </p>
 
 ---
-
-### ✨ Preview
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ANANDARHMDNII/ANANDARHMDNII/main/orang-ngoding.png" width="400"/>
-</p>
-
----
