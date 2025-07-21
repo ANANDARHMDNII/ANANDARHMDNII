@@ -53,19 +53,18 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANANDARHMDNII&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANANDARHMDNII&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANANDARH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANANDARHMDNII&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ANANDARH&theme=onedark&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
