@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nanda</h1>
 <h3 align="center">An Informatics Engineering student who’s passionate about UI/UX and coding!</h3>
 
+<img width="1024" height="1024" alt="ChatGPT Image 21 Jul 2025, 15 40 37" src="https://github.com/user-attachments/assets/5210a8b5-47e1-48f4-b622-351f1c51187d" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Frontend+Dev+in+progress+%F0%9F%9A%80;Enjoy+my+projects!+%F0%9F%91%BB" />
 </p>
