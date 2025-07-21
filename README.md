@@ -70,12 +70,7 @@
 ### ✨ Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ANANDARHMDNII/ANANDARHMDNII/main/preview-uiux.png" width="400"/>
+<img src="https://raw.githubusercontent.com/ANANDARHMDNII/ANANDARHMDNII/main/orang-ngoding.png" width="400"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=footer"/>
-</p>
-
