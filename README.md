@@ -1,31 +1,51 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+
+<h1 align="center">Hi 👋, I'm Nanda</h1>
+<h3 align="center">An Informatics Engineering student who’s passionate about UI/UX and coding!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Let's+build+awesome+projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Frontend+Dev+in+progress+%F0%9F%9A%80;Enjoy+my+projects!+%F0%9F%91%BB" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[project kamu]**
-- 🌱 I’m currently learning **Web Development, IoT, and AI**
-- 🤝 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **[email kamu]**
-- ⚡ Fun fact: *I debug more than I sleep 🐞*
+### 👩‍💻 About Me
+- 🎓 Informatics Engineering student at Universitas Pelita Bangsa 
+- 🎨 Experienced in designing modern, intuitive, and user-friendly interfaces
+- 🧠 Skilled in user flow, wireframing, and prototyping with tools like Figma, Canva, Draw.io
+- 💡 Interested in frontend development and UI/UX transformation
+- 📫 Reach me at: **anandarahmadani859@gmail.com**
+- 🌐 Connect on:
+  [LinkedIn](https://www.linkedin.com/in/ananda-rahmadani-408a30303) • [Instagram](https://www.instagram.com/nndarhmdnii)
 
 ---
 
-### 🛠️ Languages & Tools
+### 🚀 Projects
+
+#### 📱 Tasky – Mobile App
+- **Tools**: Android Studio, Figma  
+- Designed wireframes & prototypes, developed UI for task management app
+
+#### 🍽️ Website Rumah Makan
+- **Tech Stack**: HTML, CSS, JavaScript  
+- Static website with profile, menu, and contact pages — clean and responsive
+
+#### 🧩 Website CRUD - CodeIgniter 4
+- **Tech Stack**: CodeIgniter 4, PHP, MySQL  
+- Built dynamic web app with CRUD features, database integration & admin panel
+
+---
+
+### 🧰 Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
 ---
@@ -33,42 +53,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namakamu&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ANANDARHMDNII&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANANDARHMDNII&theme=tokyonight" width="400"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namakamu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ANANDARHMDNII&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true"/>
 </p>
 
 ---
 
-### 📌 Pinned Projects
+### ✨ Preview
 
-- 💰 [WalletSync](https://github.com/namakamu/walletsync) – Personal finance manager app
-- 🧠 [AI SmartBot](https://github.com/namakamu/ai-smartbot) – NLP chatbot with OpenAI
-- 🔍 [Object Detection YOLOv8](https://github.com/namakamu/yolo-detection) – Deteksi objek realtime
-
----
-
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Cara Membuat Profil GitHub Keren](#)
-- [Tutorial CodeIgniter 4 dari Nol](#)
-- [Proyek IoT: Monitoring Suhu dengan ESP32](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### ☕ Let's Connect!
-
-<p>
-  <a href="https://linkedin.com/in/namakamu"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/namakamu"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ANANDARHMDNII/ANANDARHMDNII/main/preview-uiux.png" width="400"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=200&section=footer"/>
+</p>
+
